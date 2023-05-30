@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //create a new input by scanner
+        System.out.println("Welcome");
         Scanner myObject = new Scanner(System.in);
 
         System.out.println("Enter your Kilogram and height (height in cm)");
