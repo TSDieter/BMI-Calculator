@@ -20,5 +20,6 @@ public class Main {
         } else {
             System.out.println("Your BMI is to HIGH!" + BMI);
         }
+        System.out.println("error");
     }
 }
